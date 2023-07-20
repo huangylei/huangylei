@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @huangylei
-- 🌱 I’m currently learning Physics as an undergraduate.
+- 🌱 I’m currently learning Physics as a Ph.D student.
 - 💞️ I’m looking to collaborate on High-energy astronomy.
 - 📫 How to reach me: huangylei3@mail2.sysu.edu.cn
 
